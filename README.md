@@ -1,6 +1,6 @@
 # About
 
-Exploration of popular software design patterns and JS specific design patterns implemented in TypeScript
+Exploration of popular software design patterns and JS specific design patterns
 
 # Resources
 
